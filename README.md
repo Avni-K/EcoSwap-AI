@@ -12,12 +12,14 @@ A machine learning model that identifies any household object and recommends eco
 
 🚀 Best Model	: Vision Transformer (ViT-Base-Patch16-224-In21k)
 
-📊 Results
+📊 Results : 
 
 For ViT-Base Patch16:
+
 Accuracy : 0.9053,	Macro-Recall : 0.8530, Macro-F1 : 0.8505
 
 For YOLOv11: 
+
 Accuracy : 0.8816, 	Macro-Recall : 0.8401, Macro-F1 : 0.8430	
 
 Key Observation:
