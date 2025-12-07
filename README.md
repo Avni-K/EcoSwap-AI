@@ -3,9 +3,13 @@
 A machine learning model that identifies any household object and recommends eco friednly alternatives. Built after a comparitive study between Vision Transformers and Convulutional Neural Network. 
 
 📦 Dataset Size : 40,145 images, 63 household-object categories
+
 🧠 Models Compared : ViT-Base-Patch16-224-In21k vs YOLOv11-cls
+
 ⚙ Training Epochs : 50 per configuration
+
 🧪 Metrics Used	: Accuracy, Macro-F1, Macro-Recall, Confusion Matrix
+
 🚀 Best Model	: Vision Transformer (ViT-Base-Patch16-224-In21k)
 
 📊 Results
